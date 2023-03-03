@@ -1,7 +1,7 @@
 {
-  "name": "template-node-ts",
+  "name": "ts-blockchain",
   "version": "0.0.0-development",
-  "description": "Template project for node.js and Typescript with workflows and semantic releasing",
+  "description": "",
   "main": "dist/index.js",
   "scripts": {
     "postinstall": "[ -d post-clone-scripts ] && ./post-clone-scripts/install-semantic-release.sh && rm -rf ./post-clone-scripts || true",
